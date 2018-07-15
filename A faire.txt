@@ -1,0 +1,25 @@
+IMPORTANT
+
+ 
+
+
+MOYEN
+
+Faire les bases sdls -> une vraie carte ?
+
+OSEF ?
+
+migration -> techniquement c'est comme les migration(promote/demote), sauf qu'on remplace "region selected" par "region migration", aucun intéret à le faire pour le moment
+
+Voir comment faire pour toucher à sdl image et sdl font
+
+
+
+///////////////////////////////////////////////////////
+
+
+
+
+
+
+
